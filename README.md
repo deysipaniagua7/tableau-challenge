@@ -18,9 +18,7 @@ Four datasets were downloaded, cleaned, and merged using Python:
 The final merged dataset was then used to generate visualizations in Tableau.
 
 ## **Tableau Visualizations**
-- **Note:** Ride IDs corresponding to June and November data were excluded from the analysis to ensure a consistent comparison between summer (July) and winter (December).
-- The final report is based on 331,276 Ride IDs.
-- Dashboards contain a Year filter, allowing for customizable visualizations.
+- **Note:** Ride IDs corresponding to June and November data were excluded from the analysis to ensure a consistent comparison between summer (July) and winter (December). The final report is based on 331,276 Ride IDs. Dashboards contain a Year filter, allowing for customizable visualizations.
 
 ## **Public Tableau Workbook**
 🔗 **[Citi Bike Tableau Story](https://public.tableau.com/app/profile/deysi.paniagua/viz/tableau-challenge_17426222424350/CitiBikeStory?publish=yes)**  
