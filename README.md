@@ -1,32 +1,33 @@
 # **Tableau Challenge**
 
-This is the repository that holds my **Module 18 tableau-challenge**.
+This is the repository that holds my Module 18 tableau-challenge.
 
 ## **Module Overview**
 Citi Bike is the largest bike-sharing program in the United States. While monthly data is collected, organized, and made publicly available on the program’s webpage, no dashboard or advanced reporting system exists.  
-Our objective was to develop a **Tableau report** that provides key program insights for city officials.
+
+Our objective was to develop a Tableau report that provides key program insights for city officials.
 
 ## **Data Retrieval and Cleaning**
 The data for this report was obtained from the **Citi Bike’s Data webpage**.  
 Four datasets were downloaded, cleaned, and merged using Python:  
-- **July 2023**
-- **December 2023**
-- **July 2024**
-- **December 2024**
+- July 2023
+- December 2023
+- July 2024
+- December 2024
 
-The final merged dataset was then used to generate visualizations in **Tableau**.
+The final merged dataset was then used to generate visualizations in Tableau.
 
 ## **Tableau Visualizations**
-- **Note:** Ride IDs corresponding to **June and November data** were excluded from the analysis to ensure a consistent comparison between summer (**July**) and winter (**December**).
-- The final report is based on **331,276 Ride IDs**.
-- Dashboards contain a **Year filter**, allowing for customizable visualizations.
+- **Note:** Ride IDs corresponding to June and November data were excluded from the analysis to ensure a consistent comparison between summer (July) and winter (December).
+- The final report is based on 331,276 Ride IDs.
+- Dashboards contain a Year filter, allowing for customizable visualizations.
 
 ## **Public Tableau Workbook**
 🔗 **[Citi Bike Tableau Story](https://public.tableau.com/app/profile/deysi.paniagua/viz/tableau-challenge_17426222424350/CitiBikeStory?publish=yes)**  
-The link above contains my **public Tableau Workbook**, which includes:
-- Several **sheets**
-- Multiple **dashboards**
-- A **story** for City Officials
+The link above contains my public Tableau Workbook, which includes:
+- Several sheets
+- Multiple dashboards
+- A story for City Officials
 
 ## **Repository Structure**
 ### **Main "tableau-challenge" Repo Contains:**
