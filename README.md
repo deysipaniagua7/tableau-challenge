@@ -8,7 +8,7 @@ Citi Bike is the largest bike-sharing program in the United States. While monthl
 Our objective was to develop a Tableau report that provides key program insights for city officials.
 
 ## **Data Retrieval and Cleaning**
-The data for this report was obtained from the **Citi Bike’s Data webpage**.  
+The data for this report was obtained from the Citi Bike’s Data webpage.  
 Four datasets were downloaded, cleaned, and merged using Python:  
 - July 2023
 - December 2023
